@@ -34,7 +34,7 @@ function onFormSubmit(evt) {
     formData.email = '';
     formData.message = '';
   } else {
-    alert('Увага! Всі поля форми мають бути заповнені!');
+    alert('Completatați toate câmpurile!');
   }
 }
 
